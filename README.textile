@@ -1,0 +1,1 @@
+A difficult parsing of the two tables from the PDFs for each well
